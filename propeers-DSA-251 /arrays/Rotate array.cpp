@@ -1,6 +1,6 @@
 //Problem statement is below code
 vector<int> rotateArray(vector<int>arr, int k) {
-    // Write your code here.
+    //Write your code here.
     int n=arr.size();
     vector<int> arr2(n);
     k= k%n;

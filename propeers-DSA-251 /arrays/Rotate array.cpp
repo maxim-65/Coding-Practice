@@ -15,7 +15,6 @@ vector<int> rotateArray(vector<int>arr, int k) {
 // Given an array 'arr' with 'n' elements, the task is to rotate the array to the left by 'k' steps, where 'k' is non-negative.
 
 
-
 // Example:
 // 'arr '= [1,2,3,4,5]
 // 'k' = 1  rotated array = [2,3,4,5,1]
